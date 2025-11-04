@@ -1,4 +1,4 @@
-# EC-biobank-role
+# EC-Biobank-Personalized-Treatment
 Repository of Bruno et al. Unlocking Personalized Endometrial Cancer Treatment.
 
 The processed TSV **endo_metrics_all_samples** file contains the raw metrics data used to generate all main results in our manuscript.
